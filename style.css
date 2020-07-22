@@ -1,0 +1,95 @@
+body{
+ background-image: url(image/back-cover.jpg);
+ background-repeat: no-repeat;
+ width: 1200px;
+
+}
+
+.container{
+   
+    width: 990px;
+    float:right;
+    background : hsl(358,28%,95%,0.85)
+}
+
+header img{
+
+    margin-left: 355px;
+    width: 278px,96px;
+}
+
+nav{
+
+    margin-right: 40px;
+    padding-left: 40px;
+       
+}
+
+.menu01 a{
+    color: black;
+    text-decoration: none;
+}
+
+ a:hover
+{
+ color: #d86c0c;
+}
+
+#italique-text-haut{
+    float: right;
+    margin-top: -18px;
+    margin-right: 20px;
+}
+
+
+
+#bloc-gauche{
+    width: 280px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 2px;
+  
+}
+
+#art-droite{
+
+    float: right;
+    width: 640px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: -575px;
+    margin-left: 2px;
+}
+
+#img-du-bas
+{
+  width: 200px,150px;
+  
+}
+
+
+#img-du-bas a{
+
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 105px;
+    text-align: center;
+    margin-top: -40px;
+    
+}
+
+section a:hover{
+    color:#b32
+}
+
+.trait-du-bas{
+    margin-top: 6%;
+    width: 100%;
+   margin-left: -1px;
+}
+
+#text-italique-footer
+{
+ float:right;
+ margin-right: 20px;
+}
